@@ -21,5 +21,5 @@ In this project, I created and modified the elements and features with Python da
   - Python packages: Numpy, scipy.stats, seaborn, matplotlib, pandas, csv
   - Statistics: hypothesis test, Outlier Analysis, Spearman Correlation
 
-  [](https://github.com/haden-liu/Haden_Portfoilo/blob/master/download1.png)
+  ![](https://github.com/haden-liu/Haden_Portfoilo/blob/master/download1.png)
 
