@@ -23,3 +23,6 @@ In this project, I created and modified the elements and features with Python da
 
  ![](https://github.com/haden-liu/Haden_Portfoilo/blob/master/download2.png)
 
+## [Project 3: Regression and classification with housing data](https://github.com/haden-liu/DSI_Project3)
+
+This project focuses on to apply the linear regression models with regualarization (Lasso & Ridge), as well as the feature re-engineering techniques to predict the housing sales prices, and obtain the feature importance with coefficient calculation
