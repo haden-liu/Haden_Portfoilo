@@ -35,6 +35,7 @@ In this project, I used BeautifulSoup package to scrap the data science job deta
 ## [Capstone Project - Supervised Learning Based Prediction on Commerical Flight Delaying](https://github.com/haden-liu/DSI-Capstone-Project)
 
 In my final project of DSI course, I choose the dataset contains flight records among US cities during Janaury 2020. I used various classification algorithms to get the feature importances on factors that have impact to predict whether a future flight will be delayed. I also attempted the NLP techniques to calculate the feature importances of features with object datatype and see their impacts on the delaying status.
+![](https://github.com/haden-liu/Haden_Portfoilo/blob/master/download4.PNG)
 
 
 
