@@ -30,3 +30,4 @@ This project focuses on to apply the linear regression models with regualarizati
 ## [Project 4: Web Scraping Job Postings](https://github.com/haden-liu/DSI_Project4)
 
 In this project, I used BeautifulSoup package to scrap the data science job details from Indeed website. I also applied NLP techniques such as TF/IDF models to doing feature importance analysis on the factors impact on the job classification and salary
+![](https://github.com/haden-liu/Haden_Portfoilo/blob/master/download3.png)
