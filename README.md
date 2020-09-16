@@ -26,3 +26,7 @@ In this project, I created and modified the elements and features with Python da
 ## [Project 3: Regression and classification with housing data](https://github.com/haden-liu/DSI_Project3)
 
 This project focuses on to apply the linear regression models with regualarization (Lasso & Ridge), as well as the feature re-engineering techniques to predict the housing sales prices, and obtain the feature importance with coefficient calculation
+
+## [Project 4: Web Scraping Job Postings](https://github.com/haden-liu/DSI_Project4)
+
+In this project, I used BeautifulSoup package to scrap the data science job details from Indeed website. I also applied NLP techniques such as TF/IDF models to doing feature importance analysis on the factors impact on the job classification and salary
