@@ -8,4 +8,15 @@ In this project, I created and modified the elements and features with Python da
   - Python data structures
   - Python syntax and control flow
   - basic descriptive statistics
+  
+ ## [Project 2: Civic data analyses](https://github.com/haden-liu/DSI_Project2)
+ 
+ This project focuses on following two parts:
+ 
+  - EDA & visualization to view historical insights of data
+  - Hypothesis Test & Outlier Analysis
 
+ Technologies: 
+  
+  - Python packages: Numpy, scipy.stats, seaborn, matplotlib, pandas, csv
+  - Statistics: hypothesis test, Outlier Analysis, Spearman Correlation
