@@ -1,6 +1,6 @@
 # Haden_Portfoilo
 * Portfolio for Data Science by Haden Liu
-* [linkedin](https://www.linkedin.com/in/haden-hang-liu/)
+* [Linkedin](https://www.linkedin.com/in/haden-hang-liu/)
 
 ## [Project 1: Game programming and analysis](https://github.com/haden-liu/DSI_Project1)
 
